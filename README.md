@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gb07bh and I'm new to GitHub
+- 👋 Hi, I’m @gb07bh and I'm a Sophomore.
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
       Althou, I keep doing practice for different languages in my spare time.
 - 🌱 I’m currently learning Python 
