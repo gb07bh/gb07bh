@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gb07bh and I'm a Senior at Amity University Mumbai.
 - 👀 I’m interested in Front-End Development
       Althou, I keep exploring different domains in my spare time.
-- 🌱 I’m currently learning Python 
+- 🌱 Currently Specializing in Artificial Intelligence 
 - 📫 Connect with me at gaurav193693@gmail.com
 - Just a person trying to help :)
 <!---
